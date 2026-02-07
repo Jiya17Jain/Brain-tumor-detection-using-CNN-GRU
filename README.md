@@ -4,28 +4,38 @@ This model performs multi-class tumor classification (Glioma, Meningioma, Pituit
 
 🎯 Objectives
 
-Detect presence of brain tumors from MRI scans
+-Detect presence of brain tumors from MRI scans
 
-Classify tumors into multiple categories
+-Classify tumors into multiple categories
 
-Improve diagnostic accuracy using hybrid deep learning
+-Improve diagnostic accuracy using hybrid deep learning
 
-Automate medical image analysis
+-Automate medical image analysis
 
 🧬 Tumor Classes
 The model classifies MRI images into:
-Glioma Tumor
-Meningioma Tumor
-Pituitary Tumor
-No Tumor
+
+-Glioma Tumor
+
+-Meningioma Tumor
+
+-Pituitary Tumor
+
+-No Tumor
 
 🏗️ Model Architecture
-CNN Layers → Spatial feature extraction
-Pooling Layers → Dimensionality reduction
-GRU Layers → Sequential feature learning
-Dense Layers → Classification
-Softmax Output → Multi-class prediction
-Hybrid CNN-GRU improves performance by combining visual + sequential learning.
+
+-CNN Layers → Spatial feature extraction
+
+-Pooling Layers → Dimensionality reduction
+
+-GRU Layers → Sequential feature learning
+
+-Dense Layers → Classification
+
+-Softmax Output → Multi-class prediction
+
+-Hybrid CNN-GRU improves performance by combining visual + sequential learning.
 
 ⚙️ Tech Stack
 Programming: Python
