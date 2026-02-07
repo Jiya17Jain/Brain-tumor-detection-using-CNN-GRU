@@ -44,13 +44,13 @@ The model classifies MRI images into:
    
 - Libraries:
   
-NumPy
+   - NumPy
 
-OpenCV
+   - OpenCV
 
-Matplotlib
+   - Matplotlib
 
-Scikit-learn
+   - Scikit-learn
 
 - Platform: Google Colab
   
