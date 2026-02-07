@@ -3,9 +3,13 @@ This repository showcases an advanced Deep Learning framework for Brain Tumor De
 This model performs multi-class tumor classification (Glioma, Meningioma, Pituitary, No Tumor) with optimized preprocessing and augmentation, demonstrating the potential of intelligent medical imaging for early diagnosis and clinical decision support.
 
 🎯 Objectives
+
 Detect presence of brain tumors from MRI scans
+
 Classify tumors into multiple categories
+
 Improve diagnostic accuracy using hybrid deep learning
+
 Automate medical image analysis
 
 🧬 Tumor Classes
