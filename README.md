@@ -4,13 +4,13 @@ This model performs multi-class tumor classification (Glioma, Meningioma, Pituit
 
 🎯 Objectives
 
--Detect presence of brain tumors from MRI scans
+ - Detect presence of brain tumors from MRI scans
 
--Classify tumors into multiple categories
+ - Classify tumors into multiple categories
 
--Improve diagnostic accuracy using hybrid deep learning
+ - Improve diagnostic accuracy using hybrid deep learning
 
--Automate medical image analysis
+ - Automate medical image analysis
 
 🧬 Tumor Classes
 The model classifies MRI images into:
