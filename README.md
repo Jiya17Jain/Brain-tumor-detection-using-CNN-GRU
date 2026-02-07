@@ -2,7 +2,7 @@
 This repository showcases an advanced Deep Learning framework for Brain Tumor Detection and Classification using MRI imaging data. The proposed hybrid architecture combines CNN layers for high-level spatial feature extraction with GRU networks to capture complex feature dependencies, improving diagnostic performance. 
 This model performs multi-class tumor classification (Glioma, Meningioma, Pituitary, No Tumor) with optimized preprocessing and augmentation, demonstrating the potential of intelligent medical imaging for early diagnosis and clinical decision support.
 
-🎯## Objectives
+## 🎯Objectives
 
  - Detect presence of brain tumors from MRI scans
 
@@ -12,7 +12,7 @@ This model performs multi-class tumor classification (Glioma, Meningioma, Pituit
 
  - Automate medical image analysis
 
-🧬## Tumor Classes
+## 🧬 Tumor Classes
 The model classifies MRI images into:
 
 - Glioma Tumor
@@ -23,7 +23,7 @@ The model classifies MRI images into:
 
 - No Tumor
 
-🏗️ ##Model Architecture
+## 🏗️ Model Architecture
 
 - CNN Layers → Spatial feature extraction
 
@@ -37,7 +37,7 @@ The model classifies MRI images into:
 
 - Hybrid CNN-GRU improves performance by combining visual + sequential learning.
 
-⚙️## Tech Stack
+## ⚙️Tech Stack
 - Programming: Python
   
  - Deep Learning: TensorFlow / Keras
@@ -56,7 +56,7 @@ Scikit-learn
   
 - Dataset API: Kaggle API
 
-📊## Training Pipeline
+## 📊 Training Pipeline
 
 1. Data loading from MRI dataset
 
